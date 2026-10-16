@@ -28,7 +28,7 @@
 }
 
 .common > div > button > label > * {
-  text-decoration: underline;
+  font-weight: bold;
 }
 
 .normal {
